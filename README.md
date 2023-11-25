@@ -1,5 +1,4 @@
 # Teambeautify 
-
 # Create a repository called “edureka-transaction-api”
 # Clone it
 # Check the current branch
