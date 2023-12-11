@@ -18,4 +18,4 @@ echo "-----------------------------"
 sleep 2
 curl ifconfig.me
 
-This is day 1 - project test
+This is day 1 - project test1
